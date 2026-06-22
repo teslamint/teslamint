@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jaehoon You, a backend developer who builds [what you actually make] with Python and FastAPI.
+I'm Jaehoon You, a backend developer who builds APIs and automation with Python and FastAPI.
 
 ## Tech Stack
 
@@ -27,16 +27,16 @@ I'm Jaehoon You, a backend developer who builds [what you actually make] with Py
 
 ## Featured Projects
 
-<a href="https://github.com/teslamint/repo1">
+<a href="https://github.com/teslamint/entirecontext">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=repo1&title_color=e8e8e8&icon_color=6db87d&text_color=c9c9c9&bg_color=00000000">
-    <img alt="repo1" src="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=repo1&title_color=2b2d30&icon_color=4a7c59&text_color=434343&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=entirecontext&title_color=e8e8e8&icon_color=6db87d&text_color=c9c9c9&bg_color=00000000">
+    <img alt="entirecontext" src="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=entirecontext&title_color=2b2d30&icon_color=4a7c59&text_color=434343&bg_color=00000000" />
   </picture>
 </a>
-<a href="https://github.com/teslamint/repo2">
+<a href="https://github.com/teslamint/chzzk-songrequest">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=repo2&title_color=e8e8e8&icon_color=6db87d&text_color=c9c9c9&bg_color=00000000">
-    <img alt="repo2" src="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=repo2&title_color=2b2d30&icon_color=4a7c59&text_color=434343&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=chzzk-songrequest&title_color=e8e8e8&icon_color=6db87d&text_color=c9c9c9&bg_color=00000000">
+    <img alt="chzzk-songrequest" src="https://github-readme-stats.vercel.app/api/pin/?username=teslamint&repo=chzzk-songrequest&title_color=2b2d30&icon_color=4a7c59&text_color=434343&bg_color=00000000" />
   </picture>
 </a>
 
