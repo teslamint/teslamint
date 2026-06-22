@@ -5,7 +5,7 @@
 Minimal, card-layout GitHub profile README for `teslamint/teslamint`.
 
 - **Audience**: Recruiters + developer community (general purpose)
-- **Role**: Backend developer (Python, Java/Spring)
+- **Role**: Backend developer (Python, FastAPI, MySQL)
 - **Tone**: Clean and minimal
 - **Language**: English
 
@@ -17,11 +17,11 @@ Short greeting + 2-3 line self-introduction.
 
 - Name: Jaehoon You
 - Role: Backend developer
-- Mention primary tech: Python, Java/Spring
+- Mention primary tech: Python, FastAPI
 - No excessive emoji; one paragraph max
 - Copy should be concrete about *what you build*, not just list tech names
-  - Avoid: "I'm a backend developer who loves Python and Java"
-  - Prefer: "I build [what you actually make] with Python and Spring Boot"
+  - Avoid: "I'm a backend developer who loves Python"
+  - Prefer: "I build [what you actually make] with Python and FastAPI"
 
 ### 2. Tech Stack
 
@@ -29,9 +29,9 @@ shields.io badges grouped by category, 6-10 badges total.
 
 | Category | Items |
 |----------|-------|
-| Languages | Python, Java |
-| Frameworks | Spring Boot |
-| Databases | PostgreSQL |
+| Languages | Python |
+| Frameworks | FastAPI |
+| Databases | MySQL |
 | Infrastructure | Docker, Redis |
 
 Badge style: `flat-square` for minimal look.
