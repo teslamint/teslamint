@@ -2,6 +2,10 @@
 
 I'm Jaehoon You, a backend developer who builds APIs and automation with Python and FastAPI.
 
+## Resume
+
+[View the one-page résumé (PDF)](resume/resume.pdf)
+
 ## Tech Stack
 
 <picture>
